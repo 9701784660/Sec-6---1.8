@@ -1,0 +1,7 @@
+D:\Assisted projects\Sec 6 - 1.8\Sec 6 - 1.8\bin\Debug\Sec 6 - 1.8.exe.config
+D:\Assisted projects\Sec 6 - 1.8\Sec 6 - 1.8\bin\Debug\Sec 6 - 1.8.exe
+D:\Assisted projects\Sec 6 - 1.8\Sec 6 - 1.8\bin\Debug\Sec 6 - 1.8.pdb
+D:\Assisted projects\Sec 6 - 1.8\Sec 6 - 1.8\obj\Debug\Sec 6 - 1.8.csproj.AssemblyReference.cache
+D:\Assisted projects\Sec 6 - 1.8\Sec 6 - 1.8\obj\Debug\Sec 6 - 1.8.csproj.CoreCompileInputs.cache
+D:\Assisted projects\Sec 6 - 1.8\Sec 6 - 1.8\obj\Debug\Sec 6 - 1.8.exe
+D:\Assisted projects\Sec 6 - 1.8\Sec 6 - 1.8\obj\Debug\Sec 6 - 1.8.pdb
